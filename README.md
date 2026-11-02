@@ -4,7 +4,7 @@ A personal expense tracking web app built around the **envelope budgeting method
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-fundo--expense--tracking--app.netlify.app-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://fundo-expense-tracking-app.netlify.app)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
