@@ -59,7 +59,7 @@ A personal expense tracking web app built around the **envelope budgeting method
 | Category | Technology |
 |---|---|
 | Frontend | React · JSX · Tailwind CSS |
-| Language | JavaScript |
+| Language | TypeScript |
 | Charts | Recharts |
 | Build Tool | Vite |
 | Storage | localStorage |
